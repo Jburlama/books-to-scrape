@@ -6,6 +6,8 @@ Requests -> `pip install requests`
 
 BeautifulSoup4 --> `pip install beautifulsoup4`
 
+lxml parser --> `pip install lxml`
+
 pandas --> `pip install pandas`
 
 tqdm --> `pip install tqdm`
